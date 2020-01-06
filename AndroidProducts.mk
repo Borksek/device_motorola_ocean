@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ocean.mk
+    $(LOCAL_DIR)/du_ocean.mk
     
 COMMON_LUNCH_CHOICES := \
-    lineage_ocean-userdebug
+    du_ocean-userdebug
